@@ -16,3 +16,9 @@ into several commits.
 How can you use the staging area to make sure you have one commit per logical change?
 
 Add the files which are holden logically together, commit them and repeat.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Organize new features in branches and try them out there without touching the master version.
+When they work you can merge them to the master branch. When not you can leave them in their branch.
+The new feature did not worked out but you don't messed up the master branch.
