@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+All the essential files for a git repo will get created.
+Only when I initialise a repo git know that there is one.
+
+How is the staging area different from the working directory and the repository?
+
+In the staging area are the files I want to commit next.
+The staging are can only contain some files of the working directory.
+Before files are in the repository they needed to be added to the staging area.
+
+What value do you think it offers?
+
+When I make changes to different files I can divide them logically
+into several commits.
