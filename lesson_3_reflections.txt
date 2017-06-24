@@ -4,3 +4,9 @@ When I work with someone else on my project.
 When I work on multiple computers.
 When I want to share my project with the world.
 To have a backup of my project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Maybe you are working an a project and don't want to be interfered by the commits
+in the remote. It is much easier and not so time consuming to merge all
+files at the end.
