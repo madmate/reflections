@@ -4,12 +4,15 @@ All the essential files for a git repo will get created.
 Only when I initialise a repo git know that there is one.
 
 How is the staging area different from the working directory and the repository?
+What value do you think it offers?
 
 In the staging area are the files I want to commit next.
 The staging are can only contain some files of the working directory.
 Before files are in the repository they needed to be added to the staging area.
 
-What value do you think it offers?
-
 When I make changes to different files I can divide them logically
 into several commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add the files which are holden logically together, commit them and repeat.
