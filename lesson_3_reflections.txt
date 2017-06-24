@@ -10,3 +10,13 @@ Why might you want to always pull changes manually rather than having Git automa
 Maybe you are working an a project and don't want to be interfered by the commits
 in the remote. It is much easier and not so time consuming to merge all
 files at the end.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+I can fork a repository to my own account and then clone it to work on it. You will do that
+to work on this project independently from the origin owner of this repository.
+Clones are just the same repository you cloned from. Branches you use to develop a
+new features independently from you stable version. You don't need to fear to break something
+in the stable version when you work on a branch. When everything works you can merge.
+If you want to integrate you changes into the original repo you forked from you push the changes to your repo and then
+ask the owner of the origin repo to merge your version.
