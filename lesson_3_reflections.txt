@@ -32,4 +32,14 @@ How would you collaborate without using Git or GitHub?
 Sharing the files over a File Server or USB-dive. And communicate over some chat.
 What would be easier, and what would be harder?
 Collaboration would be much harder without Git and Github. The exchange and merging is much more
-disappointing and time consuming than git. 
+disappointing and time consuming than git.
+
+When would you want to make changes in a separate branch rather than directly in master?
+
+When I am not sure if my new feature break something and the master branch need to be stable
+all the time. I can test and break everything in my different branch without affecting master.
+
+What benefits does each approach have?
+
+Do everything in master you have everything in one place and less work when you collaborate with others.
+But pull requests give more clearance about new features. 
