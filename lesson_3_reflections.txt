@@ -20,3 +20,10 @@ new features independently from you stable version. You don't need to fear to br
 in the stable version when you work on a branch. When everything works you can merge.
 If you want to integrate you changes into the original repo you forked from you push the changes to your repo and then
 ask the owner of the origin repo to merge your version.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can work with the latest code base which gives you the advantage that you
+can implement new features on the newest version and that they work the best with the
+newest version. When you work with a old version you probably code something that is
+already present in the newest version, but you don't know from it.
