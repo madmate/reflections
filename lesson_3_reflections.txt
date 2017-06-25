@@ -27,3 +27,9 @@ You can work with the latest code base which gives you the advantage that you
 can implement new features on the newest version and that they work the best with the
 newest version. When you work with a old version you probably code something that is
 already present in the newest version, but you don't know from it.
+
+How would you collaborate without using Git or GitHub?
+Sharing the files over a File Server or USB-dive. And communicate over some chat.
+What would be easier, and what would be harder?
+Collaboration would be much harder without Git and Github. The exchange and merging is much more
+disappointing and time consuming than git. 
